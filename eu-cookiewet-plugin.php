@@ -38,11 +38,21 @@ class EUCookieWet
 		add_settings_field('eu_cookie_more', 'Meer informatie link', array('EUCookieWet', 'eu_cookie_more_settings'), 'eu_cookie', 'eu_cookie_main');
 	}
 
+	/**
+	 * prints some text used for the settings page
+	 *
+	 * @return void
+	 */
 	public static function eu_cookie_section_text()
 	{
 		echo '<p>U kunt deze instellingen gebruiken om de tekst van de plugin op uw website aan te passen.</p><p>We zouden willen aanraden deze tekst kort maar duidelijk te formuleren.</p>';
 	}
 
+	/**
+	 * handles the 'text' field
+	 *
+	 * @return void
+	 */
 	public static function eu_cookie_text_settings()
 	{
 		$options = get_option('eu_cookiewet_opties');
@@ -56,6 +66,11 @@ class EUCookieWet
 		echo '<input id="eu_cookie_text_settings" name="eu_cookiewet_opties[eu_cookie_text_settings]" size="50" type="text" value="'.htmlspecialchars($value).'" />';
 	}
 
+	/**
+	 * handles the 'accept' field
+	 *
+	 * @return void
+	 */
 	public static function eu_cookie_accept_settings()
 	{
 		$options = get_option('eu_cookiewet_opties');
@@ -69,6 +84,11 @@ class EUCookieWet
 		echo "<input id='eu_cookie_accept_settings' name='eu_cookiewet_opties[eu_cookie_accept_settings]' size='50' type='text' value='{$value}' />";
 	}
 
+	/**
+	 * handles the 'more' field
+	 *
+	 * @return void
+	 */
 	public static function eu_cookie_more_settings()
 	{
 		$options = get_option('eu_cookiewet_opties');
@@ -81,6 +101,12 @@ class EUCookieWet
 		echo "<input id='eu_cookie_more_settings' name='eu_cookiewet_opties[eu_cookie_more_settings]' size='50' type='text' value='{$value}' />";
 	}
 
+	/**
+	 * this is the validate method to make sure all input is sane
+	 *
+	 * @param  array $input input values
+	 * @return array        sanitized input values
+	 */
 	public static function eu_cookiewet_opties_validate($input)
 	{
 		$options = get_option( 'eu_cookiewet_opties' );
@@ -91,11 +117,21 @@ class EUCookieWet
 		return $options;
 	}
 
+	/**
+	 * makes sure jquery is loaded
+	 *
+	 * @return void
+	 */
 	public static function eu_cookie_jquery()
 	{
 	    wp_enqueue_script( 'jquery' );
 	}
 
+	/**
+	 * prints the css needed on the front page
+	 *
+	 * @return void
+	 */
 	public static function eu_add_cookie_css()
 	{
 		if ( !isset ( $_COOKIE["catAccCookies"] ) ) {
@@ -158,6 +194,11 @@ class EUCookieWet
 		}
 	}
 
+	/**
+	 * prints the html required for the displaying of the cookie bar
+	 *
+	 * @return void
+	 */
 	public static function eu_add_cookie_bar()
 	{
 		if ( !isset ( $_COOKIE["catAccCookies"] ) )

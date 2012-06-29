@@ -9,7 +9,7 @@
 Beschrijving
 ------------
 
-Een simpele plugin voor WordPress om je website te laten voldoen aan de cookiewet. De plugin zal een balk bovenaan de website plaatsen en standaard geen enkele cookie toelaten. Pas als de gebruiker toestemming geeft worden de cookies weer ingeladen. Ook wordt er een pagina aangemaakt welke linkt naar een zelf in te vullen cookie policy.
+Een simpele plugin voor WordPress om je website te laten voldoen aan de cookiewet. De plugin zal een balk bovenaan de website plaatsen om de gebruiker te laten weten dat er cookies gebruikt worden. Ook wordt er een pagina aangemaakt welke linkt naar een zelf in te vullen cookie policy.
 
 Installatie
 -----------

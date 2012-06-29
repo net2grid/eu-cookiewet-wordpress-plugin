@@ -3,7 +3,7 @@
 /*
 Plugin Name: EU Cookiewet Plugin (Nederlands)
 Plugin URI: http://github.com/mijndert
-Description: Een simpele plugin voor WordPress om je website te laten voldoen aan de cookiewet. De plugin zal een balk bovenaan de website plaatsen en standaard geen enkele cookie toelaten. Pas als de gebruiker toestemming geeft worden de cookies weer ingeladen. Ook wordt er een pagina aangemaakt welke linkt naar een zelf in te vullen cookie policy.
+Description: Een simpele plugin voor WordPress om je website te laten voldoen aan de cookiewet. De plugin zal een balk bovenaan de website plaatsen om de gebruiker laten weten dat er cookies gebruikt worden. Ook wordt er een pagina aangemaakt welke linkt naar een zelf in te vullen cookie policy.
 Author: Mijndert Stuij
 Version: 1.0
 Author URI: http://mijndertstuij.nl/

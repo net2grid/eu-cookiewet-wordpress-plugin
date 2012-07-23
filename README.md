@@ -9,7 +9,7 @@
 Beschrijving
 ------------
 
-Een simpele plugin voor WordPress om je website te laten voldoen aan de cookiewet. De plugin zal een balk bovenaan de website plaatsen om de gebruiker te laten weten dat er cookies gebruikt worden. Ook wordt er een pagina aangemaakt welke linkt naar een zelf in te vullen cookie policy.
+Een simpele plugin voor WordPress om een boodschap op je website te plaatsen dat je cookies gebruikt. De plugin zal een balk bovenaan de website plaatsen om de gebruiker te laten weten dat er cookies gebruikt worden. Ook wordt er een pagina aangemaakt welke linkt naar een zelf in te vullen cookie policy.
 
 Installatie
 -----------
@@ -21,6 +21,9 @@ Installatie
 
 Veel gestelde vragen
 --------------------
+
+### Waar kan ik terecht met klachten? ###
+De schrijver van deze plugin is niet verantwoordelijk voor enige technische of persoonlijke schade die veroorzaakt is door deze plugin.
 
 ### Is deze plugin altijd gratis te gebruiken? ###
 Ja, deze plugin is voor altijd gratis te gebruiken. Er zal nooit geld voor worden gevraagd.

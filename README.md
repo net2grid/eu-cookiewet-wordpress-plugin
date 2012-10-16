@@ -2,7 +2,7 @@
 * Tags: cookies, eu, nl, vertaling, cookiewet
 * Vanaf versie: 3.3.2
 * Getest tot versie: 3.4.1
-* Stable tag: 1.0
+* Stable tag: 1.3
 * Licentie: GPLv2
 * Licentie URI: http://www.gnu.org/licenses/gpl-2.0.html
 

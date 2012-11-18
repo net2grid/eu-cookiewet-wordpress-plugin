@@ -18,7 +18,7 @@ class EUCookieWet
    *
    * @return void
    */
-  public static function eu_cookiewet_textdomain() {
+  public static function eu_cookiewet_i18n() {
     load_plugin_textdomain('eucookiewet', false, basename(dirname(__FILE__)).'/languages');
   }
 
@@ -307,4 +307,4 @@ add_action('admin_init', array('EUCookieWet', 'on_admin_init'));
 add_action('wp_enqueue_scripts', array('EUCookieWet', 'eu_cookie_jquery'));
 add_action('wp_head', array('EUCookieWet', 'eu_add_cookie_css'));
 add_action('wp_footer', array('EUCookieWet', 'eu_add_cookie_bar'), 1000 );
-add_action('init', 'eu_cookiewet_textdomain');
+add_action('init', array('EUCookieWet', 'eu_cookiewet_i18n'));

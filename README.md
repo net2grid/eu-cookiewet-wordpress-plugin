@@ -1,36 +1,36 @@
-* Auteur(s): Mijndert Stuij, Jorijn Schrijvershof
+* Authors: Mijndert Stuij, Jorijn Schrijvershof, Remco Brink
 * Tags: cookies, eu, nl, vertaling, cookiewet
-* Vanaf versie: 3.3.2
-* Getest tot versie: 3.4.1
-* Stable tag: 1.3
-* Licentie: GPLv2
-* Licentie URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Minimal WordPress version: 3.3.2
+* Getest tot versie: 3.4.2
+* Stable tag: 1.4
+* License: GPLv2
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Beschrijving
-------------
-
-Een simpele plugin voor WordPress om een boodschap op je website te plaatsen dat je cookies gebruikt. De plugin zal een balk bovenaan de website plaatsen om de gebruiker te laten weten dat er cookies gebruikt worden. Ook wordt er een pagina aangemaakt welke linkt naar een zelf in te vullen cookie policy.
-
-Installatie
+Description
 -----------
 
-1. Pak het archief van de plugin uit in wp-content/plugins
-2. Activeer de plugin in je wp-admin
-3. Verander de instellingen van de cookie-balk
-4. Verander de tekst van je Cookie Policy pagina
+A simple WordPress plugin which helps you comply with the EU cookies and privacy directive by showing a message that cookies are used on the website. The plugin shows a bar at the top of the page where website visitors are told that the site uses cookies. The plugin will also create a page within WordPress where you can place your cookie policy.
 
-Veel gestelde vragen
---------------------
+Installation
+------------
 
-### Waar kan ik terecht met klachten? ###
-De schrijver van deze plugin is niet verantwoordelijk voor enige technische of persoonlijke schade die veroorzaakt is door deze plugin.
+1. Extract the archive in wp-content/plugins
+2. Activate the plugin in your WordPress administrative interface.
+3. Change the settings of the cookie bar
+4. Change the text of your cookie policy page.
 
-### Is deze plugin altijd gratis te gebruiken? ###
-Ja, deze plugin is voor altijd gratis te gebruiken. Er zal nooit geld voor worden gevraagd.
+Frequently Asked Questions
+--------------------------
 
-### Mag ik deze plugin naar eigen smaak aanpassen? ###
-De plugin is uitgebracht onder een GPLv2 licentie. Je mag de plugin geheel naar eigen inzicht aanpassen en er mee doen wat je wilt.
+### Where can I registrer a complaint? ###
+The authors of this plugin are not responsible for any technical or personal injuries caused by this plugin.
 
-### Waar kan ik terecht met mijn probleem aangaande deze plugin? ###
-Binnen het GitHub project kan je issues aanmaken. https://github.com/mijndert/eu-cookiewet-wordpress-plugin
+### Will this plugin stay free? ###
+Yes, this plugin will remain free forever. No money will ever be charged for this plugin.
+
+### Can I modify this plugin? ###
+This code was released under the GPLv2 license. You can change the code as much as you want.
+
+### Something's not working as it should, where can I file a bugreport? ###
+You can file bugreports at GitHub: https://github.com/net2grid/eu-cookiewet-wordpress-plugin/issues
 

@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EU Cookiewet Plugin\n"
+"POT-Creation-Date: 2012-11-18 10:11+0100\n"
+"PO-Revision-Date: 2012-11-18 10:11+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/rbb/Downloads/code/eu-cookiewet-plugin\n"
+
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:56
+msgid ""
+"You can use these settings to change the text of the plugin on your website."
+msgstr ""
+
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:56
+msgid "We highly recommend keeping the text short and concise."
+msgstr ""
+
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:71
+msgid "This website uses cookies to improve the user experience."
+msgstr ""
+
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:89
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:231
+msgid "Allow cookies"
+msgstr ""
+
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:106
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:240
+msgid "More information about the EU cookie directive"
+msgstr ""
+
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:222
+msgid "This website uses cookies to improve the user experience"
+msgstr ""
+
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:257
+msgid "EU Cookiewet Plugin"
+msgstr ""
+
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:261
+msgid "Your settings"
+msgstr ""
+
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:265
+msgid "Cookie Policy"
+msgstr ""
+
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:281
+msgid ""
+"Something went wrong and the Cookie Policy page was not created. Check your "
+"list of pages to see if you possibly already had a Cookie Policy page."
+msgstr ""
+
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:285
+msgid "The Cookie Policy page has been created."
+msgstr ""
+
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:292
+msgid "You can edit your Cookie Policy page on"
+msgstr ""
+
+#: /Users/rbb/Downloads/code/eu-cookiewet-plugin/eu-cookiewet-plugin.php:292
+msgid "this page"
+msgstr ""

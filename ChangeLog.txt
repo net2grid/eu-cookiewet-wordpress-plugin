@@ -1,0 +1,6 @@
+version 1.4
+    * Converted plugin to multilingual
+    * Languages added: nl_NL, en_US
+
+version 1.3
+    * forked from original codebase

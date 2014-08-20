@@ -5,7 +5,7 @@ Plugin Name: EU Cookiewet Plugin
 Plugin URI: http://github.com/net2grid
 Description: A simple WordPress plugin which helps you comply with the EU cookies and privacy directive by showing a message that cookies are used on the website.
 Authors: Mijndert Stuij, Jorijn Schrijvershof, Remco Brink
-Version: 1.4
+Version: 1.5
 */
 
 /**

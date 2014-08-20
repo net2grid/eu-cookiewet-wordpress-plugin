@@ -2,7 +2,7 @@
 * Tags: cookies, eu, nl, vertaling, cookiewet
 * Minimal WordPress version: 3.3.2
 * Getest tot versie: 3.4.2
-* Stable tag: 1.4
+* Stable tag: 1.5
 * License: GPLv2
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

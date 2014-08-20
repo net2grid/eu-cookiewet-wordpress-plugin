@@ -3,7 +3,7 @@ Contributors: Mijndert Stuij, Jorijn Schrijvershof, Remco Brink
 Tags: cookies, eu, nl, vertaling, cookiewet
 Requires at least: 3.3.2
 Tested up to: 3.4.2
-Stable tag: 1.4
+Stable tag: 1.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
